@@ -45,7 +45,5 @@
 </ol>
 
 <br>
-<br>
-<br>
 <p>Overall, the E-Book Shop is a feature-rich and well-designed online platform that caters to book lovers, offering a wide selection of e-books, intuitive navigation, secure transactions, and a seamless user experience.</p>
 
